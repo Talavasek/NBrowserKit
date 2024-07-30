@@ -19,7 +19,7 @@
 		"nette/application": "^3.2",
 		"nette/bootstrap": "^3.2",
 		"nette/caching": "^3.2",
-		"nette/di": "^3.2",
+		"nette/di": "^3.1",
 		"nette/http": "^3.2",
 		"tracy/tracy": "^2.10",
 		"symfony/browser-kit": "^5.0 || ^6.0"
